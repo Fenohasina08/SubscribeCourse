@@ -1,4 +1,3 @@
 package com.example.demo.repository;
 
-public class UserRepository {
-}
+public class UserRepository {}
